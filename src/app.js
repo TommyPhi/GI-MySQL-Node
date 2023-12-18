@@ -1,4 +1,3 @@
-const fetch = require('node-fetch')
 const express = require('express')
 const hbs = require('hbs')
 const path = require('path')
